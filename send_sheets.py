@@ -29,5 +29,3 @@ def send_data(sheet_id: str, execise: str, weight: str, repets: str):
 
     return resp
 
-
-sheet_id = "1wHvw2VWglwWZ-AyQBv0cVWUKWzZgvmYKidPCX5-5HZg"
